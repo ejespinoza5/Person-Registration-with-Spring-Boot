@@ -1,0 +1,272 @@
+2024-05-31 10:07:30.771  INFO 10320 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 10320 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:07:30.781  INFO 10320 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:07:30.843  INFO 10320 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:07:30.843  INFO 10320 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:07:32.127  INFO 10320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:07:32.144  INFO 10320 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:07:32.145  INFO 10320 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:07:32.208  INFO 10320 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:07:32.209  INFO 10320 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1365 ms
+2024-05-31 10:07:32.670  INFO 10320 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:07:32.711  INFO 10320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:07:32.726  INFO 10320 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.511 seconds (process running for 3.503)
+2024-05-31 10:07:58.082  INFO 10320 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:07:58.083  INFO 10320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:07:58.083  INFO 10320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-05-31 10:07:58.166  WARN 10320 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `ec.edu.espe.resgistropersona.registropersona.model.Address` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('brisas')]
+2024-05-31 10:08:22.651  INFO 5304 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 5304 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:08:22.653  INFO 5304 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:08:22.713  INFO 5304 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:08:22.714  INFO 5304 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:08:23.738  INFO 5304 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:08:23.750  INFO 5304 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:08:23.751  INFO 5304 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:08:23.816  INFO 5304 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:08:23.817  INFO 5304 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1102 ms
+2024-05-31 10:08:24.251  INFO 5304 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:08:24.291  INFO 5304 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:08:24.308  INFO 5304 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.069 seconds (process running for 2.903)
+2024-05-31 10:08:28.317  INFO 5304 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:08:28.318  INFO 5304 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:08:28.321  INFO 5304 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-05-31 10:08:28.435  WARN 5304 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `ec.edu.espe.resgistropersona.registropersona.model.Address` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('brisas')]
+2024-05-31 10:10:49.036  INFO 12164 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 12164 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:10:49.039  INFO 12164 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:10:49.091  INFO 12164 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:10:49.092  INFO 12164 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:10:50.123  INFO 12164 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:10:50.135  INFO 12164 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:10:50.135  INFO 12164 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:10:50.210  INFO 12164 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:10:50.210  INFO 12164 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1117 ms
+2024-05-31 10:10:50.720  INFO 12164 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:10:50.751  INFO 12164 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:10:50.761  INFO 12164 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.156 seconds (process running for 3.104)
+2024-05-31 10:10:52.271  INFO 12164 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:10:52.273  INFO 12164 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:10:52.275  INFO 12164 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-05-31 10:10:52.371  WARN 12164 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `ec.edu.espe.resgistropersona.registropersona.model.Address` (although at least one Creator exists): no String-argument constructor/factory method to deserialize from String value ('brisas')]
+2024-05-31 10:11:44.910  WARN 12164 --- [http-nio-8080-exec-2] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:14:31.636  INFO 14216 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 14216 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:14:31.638  INFO 14216 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:14:31.693  INFO 14216 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:14:31.694  INFO 14216 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:14:32.711  INFO 14216 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:14:32.733  INFO 14216 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:14:32.734  INFO 14216 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:14:32.789  INFO 14216 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:14:32.790  INFO 14216 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1096 ms
+2024-05-31 10:14:33.129  INFO 14216 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:14:33.155  INFO 14216 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:14:33.164  INFO 14216 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 1.902 seconds (process running for 2.815)
+2024-05-31 10:14:39.660  INFO 14216 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:14:39.660  INFO 14216 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:14:39.661  INFO 14216 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-05-31 10:14:39.741  WARN 14216 --- [http-nio-8080-exec-1] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:18:21.025  INFO 3732 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 3732 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:18:21.028  INFO 3732 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:18:21.075  INFO 3732 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:18:21.076  INFO 3732 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:18:22.149  INFO 3732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:18:22.160  INFO 3732 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:18:22.161  INFO 3732 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:18:22.219  INFO 3732 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:18:22.220  INFO 3732 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1143 ms
+2024-05-31 10:18:22.602  INFO 3732 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:18:22.644  INFO 3732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:18:22.660  INFO 3732 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.159 seconds (process running for 2.994)
+2024-05-31 10:18:53.838  INFO 16508 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 16508 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:18:53.842  INFO 16508 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:18:53.899  INFO 16508 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:18:53.900  INFO 16508 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:18:54.914  INFO 16508 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:18:54.929  INFO 16508 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:18:54.930  INFO 16508 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:18:54.996  INFO 16508 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:18:54.996  INFO 16508 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1095 ms
+2024-05-31 10:18:55.359  INFO 16508 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:18:55.385  INFO 16508 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:18:55.393  INFO 16508 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 1.932 seconds (process running for 3.007)
+2024-05-31 10:18:56.046  INFO 16508 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:18:56.046  INFO 16508 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:18:56.048  INFO 16508 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-05-31 10:18:56.120  WARN 16508 --- [http-nio-8080-exec-1] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:22:24.906  WARN 16508 --- [http-nio-8080-exec-3] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:22:39.050  INFO 15504 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 15504 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:22:39.053  INFO 15504 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:22:39.105  INFO 15504 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:22:39.105  INFO 15504 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:22:40.197  INFO 15504 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:22:40.211  INFO 15504 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:22:40.212  INFO 15504 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:22:40.279  INFO 15504 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:22:40.279  INFO 15504 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1173 ms
+2024-05-31 10:22:40.695  INFO 15504 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:22:40.727  INFO 15504 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:22:40.739  INFO 15504 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.092 seconds (process running for 2.939)
+2024-05-31 10:22:47.179  INFO 12320 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 12320 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:22:47.182  INFO 12320 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:22:47.249  INFO 12320 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:22:47.249  INFO 12320 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:22:48.430  INFO 12320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:22:48.445  INFO 12320 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:22:48.445  INFO 12320 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:22:48.505  INFO 12320 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:22:48.505  INFO 12320 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1255 ms
+2024-05-31 10:22:48.936  INFO 12320 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:22:48.977  INFO 12320 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:22:48.992  INFO 12320 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.297 seconds (process running for 3.255)
+2024-05-31 10:22:50.673  INFO 12320 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:22:50.674  INFO 12320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:22:50.675  INFO 12320 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-05-31 10:22:50.766  WARN 12320 --- [http-nio-8080-exec-1] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:23:13.592  WARN 12320 --- [http-nio-8080-exec-2] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:23:42.939  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 15768 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:23:42.942  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:23:42.995  INFO 15768 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:23:42.995  INFO 15768 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:23:44.074  INFO 15768 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:23:44.087  INFO 15768 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:23:44.088  INFO 15768 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:23:44.148  INFO 15768 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:23:44.148  INFO 15768 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1152 ms
+2024-05-31 10:23:44.578  INFO 15768 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:23:44.627  INFO 15768 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:23:44.638  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.077 seconds (process running for 2.964)
+2024-05-31 10:27:27.166  INFO 15768 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:27:27.180  INFO 15768 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:27:27.182  INFO 15768 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-05-31 10:27:52.058  WARN 15768 --- [http-nio-8080-exec-8] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:29:17.339  WARN 15768 --- [http-nio-8080-exec-3] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:39:42.459  INFO 15768 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+2024-05-31 10:39:42.581  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 15768 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:39:42.581  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:39:42.848  INFO 15768 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:39:42.849  INFO 15768 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:39:42.850  INFO 15768 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:39:42.867  INFO 15768 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:39:42.868  INFO 15768 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 283 ms
+2024-05-31 10:39:42.972  INFO 15768 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:39:42.984  INFO 15768 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:39:42.990  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 0.469 seconds (process running for 961.317)
+2024-05-31 10:39:42.993  INFO 15768 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-31 10:39:45.434  INFO 15768 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+2024-05-31 10:39:45.521  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 15768 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:39:45.521  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:39:45.705  INFO 15768 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:39:45.706  INFO 15768 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:39:45.706  INFO 15768 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:39:45.721  INFO 15768 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:39:45.721  INFO 15768 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 197 ms
+2024-05-31 10:39:45.800  INFO 15768 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:39:45.810  INFO 15768 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:39:45.816  INFO 15768 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 0.335 seconds (process running for 964.142)
+2024-05-31 10:39:45.818  INFO 15768 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-31 10:40:02.682  INFO 15768 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:40:02.683  INFO 15768 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:40:02.683  INFO 15768 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-05-31 10:44:29.388  INFO 17492 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 17492 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:44:29.391  INFO 17492 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:44:29.443  INFO 17492 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:44:29.444  INFO 17492 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:44:30.588  INFO 17492 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:44:30.598  INFO 17492 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:44:30.599  INFO 17492 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:44:30.647  INFO 17492 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:44:30.647  INFO 17492 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1203 ms
+2024-05-31 10:44:30.965  INFO 17492 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:44:31.003  INFO 17492 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:44:31.015  INFO 17492 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.113 seconds (process running for 3.147)
+2024-05-31 10:44:53.818  INFO 17492 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:44:53.818  INFO 17492 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:44:53.820  INFO 17492 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-05-31 10:44:53.920  WARN 17492 --- [http-nio-8080-exec-1] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 
+2024-05-31 10:48:11.200  INFO 9528 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 9528 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:48:11.202  INFO 9528 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:48:11.262  INFO 9528 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-31 10:48:11.262  INFO 9528 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-31 10:48:12.304  INFO 9528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:48:12.318  INFO 9528 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:48:12.319  INFO 9528 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:48:12.371  INFO 9528 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:48:12.371  INFO 9528 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1108 ms
+2024-05-31 10:48:12.759  INFO 9528 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:48:12.794  INFO 9528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:48:12.806  INFO 9528 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 2.029 seconds (process running for 2.933)
+2024-05-31 10:51:27.951  INFO 9528 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2024-05-31 10:51:28.058  INFO 9528 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 9528 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:51:28.059  INFO 9528 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:51:28.321  INFO 9528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:51:28.322  INFO 9528 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:51:28.323  INFO 9528 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:51:28.338  INFO 9528 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:51:28.338  INFO 9528 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 276 ms
+2024-05-31 10:51:28.346  WARN 9528 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'personController' defined in file [C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes\ec\edu\espe\resgistropersona\registropersona\controller\PersonController.class]: Post-processing of merged bean definition failed
+2024-05-31 10:51:28.346  INFO 9528 --- [restartedMain] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-05-31 10:51:28.352  INFO 9528 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-05-31 10:51:28.376 ERROR 9528 --- [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'personController' defined in file [C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes\ec\edu\espe\resgistropersona\registropersona\controller\PersonController.class]: Post-processing of merged bean definition failed
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:577)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:962)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at ec.edu.espe.resgistropersona.registropersona.RegistroPersonaApplication.main(RegistroPersonaApplication.java:12)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [ec.edu.espe.resgistropersona.registropersona.controller.PersonController] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@49821596]
+	at org.springframework.util.ReflectionUtils.getDeclaredFields(ReflectionUtils.java:757)
+	at org.springframework.util.ReflectionUtils.doWithLocalFields(ReflectionUtils.java:689)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.buildResourceMetadata(CommonAnnotationBeanPostProcessor.java:431)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.findResourceMetadata(CommonAnnotationBeanPostProcessor.java:412)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessMergedBeanDefinition(CommonAnnotationBeanPostProcessor.java:312)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyMergedBeanDefinitionPostProcessors(AbstractAutowireCapableBeanFactory.java:1085)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:574)
+	... 20 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: ec/edu/espe/resgistropersona/registropersona/service/PersonService
+	at java.base/java.lang.Class.getDeclaredFields0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredFields(Class.java:3297)
+	at java.base/java.lang.Class.getDeclaredFields(Class.java:2371)
+	at org.springframework.util.ReflectionUtils.getDeclaredFields(ReflectionUtils.java:752)
+	... 26 common frames omitted
+Caused by: java.lang.ClassNotFoundException: ec.edu.espe.resgistropersona.registropersona.service.PersonService
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:121)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 30 common frames omitted
+
+2024-05-31 10:51:29.866  INFO 9528 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Starting RegistroPersonaApplication using Java 17 with PID 9528 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-31 10:51:29.867  INFO 9528 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:51:30.103  INFO 9528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-31 10:51:30.104  INFO 9528 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-31 10:51:30.104  INFO 9528 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-31 10:51:30.126  INFO 9528 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2024-05-31 10:51:30.128  INFO 9528 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 258 ms
+2024-05-31 10:51:30.219  INFO 9528 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-05-31 10:51:30.231  INFO 9528 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-31 10:51:30.234  INFO 9528 --- [restartedMain] e.e.e.r.r.RegistroPersonaApplication     : Started RegistroPersonaApplication in 0.415 seconds (process running for 200.361)
+2024-05-31 10:51:30.236  INFO 9528 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-05-31 10:55:57.264  INFO 9528 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:55:57.265  INFO 9528 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:55:57.266  INFO 9528 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-05-31 10:55:57.368  WARN 9528 --- [http-nio-8080-exec-1] e.e.e.r.r.service.PersonService          : vamos a guardar una persona 

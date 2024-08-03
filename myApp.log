@@ -1,0 +1,20 @@
+2024-05-29 10:45:30,988 WARN [http-nio-8080-exec-1] e.e.e.r.r.s.PersonService [PersonService.java:21] vamos a guardar una persona 1111
+2024-05-29 10:46:16,930 WARN [http-nio-8080-exec-2] e.e.e.r.r.s.PersonService [PersonService.java:21] vamos a guardar una persona 1111
+2024-05-29 10:46:47,195 INFO [restartedMain] e.e.e.r.r.RegistroPersonaApplication [StartupInfoLogger.java:50] Starting RegistroPersonaApplication using Java 17 with PID 14800 (C:\Users\edgar\IdeaProjects\RegistroPersona\target\classes started by edgar in C:\Users\edgar\IdeaProjects\RegistroPersona)
+2024-05-29 10:46:47,197 INFO [restartedMain] e.e.e.r.r.RegistroPersonaApplication [SpringApplication.java:654] No active profile set, falling back to 1 default profile: "default"
+2024-05-29 10:46:47,302 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:252] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-29 10:46:47,302 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:252] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-05-29 10:46:48,582 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:109] Tomcat initialized with port 8080 (http)
+2024-05-29 10:46:48,595 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2024-05-29 10:46:48,598 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2024-05-29 10:46:48,599 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-29 10:46:48,660 INFO [restartedMain] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2024-05-29 10:46:48,660 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1357 ms
+2024-05-29 10:46:49,166 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2024-05-29 10:46:49,190 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2024-05-29 10:46:49,213 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:241] Tomcat started on port 8080 (http) with context path ''
+2024-05-29 10:46:49,228 INFO [restartedMain] e.e.e.r.r.RegistroPersonaApplication [StartupInfoLogger.java:56] Started RegistroPersonaApplication in 2.488 seconds (process running for 3.576)
+2024-05-29 10:46:49,817 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-29 10:46:49,817 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:532] Initializing Servlet 'dispatcherServlet'
+2024-05-29 10:46:49,819 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:554] Completed initialization in 2 ms
+2024-05-29 10:46:49,901 WARN [http-nio-8080-exec-1] e.e.e.r.r.s.PersonService [PersonService.java:21] vamos a guardar una persona 
